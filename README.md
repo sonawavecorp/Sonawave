@@ -2,7 +2,7 @@
 
 Sonawave 홈페이지 소스입니다. GitHub Pages로 배포되는 정적 사이트입니다.
 
-- 공개 주소: https://hisona.github.io/Sonawave/
+- 공개 주소: https://sonawavecorp.github.io/Sonawave/
 - 진입 파일: [index.html](index.html) — HTML 한 파일에 CSS가 포함되어 있고 외부 요청이 없습니다.
 - 로고: [images/sonawave_logo.png](images/sonawave_logo.png)
 
